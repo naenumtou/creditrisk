@@ -1,0 +1,254 @@
+factor,factor_type,data_type
+avg_bal_12_to_max_bal_12,Account Balance,Continuous
+avg_bal_9_to_max_bal_12,Account Balance,Continuous
+avg_bal_6_to_max_bal_12,Account Balance,Continuous
+avg_bal_3_to_max_bal_12,Account Balance,Continuous
+avg_bal_9_to_max_bal_9,Account Balance,Continuous
+avg_bal_6_to_max_bal_9,Account Balance,Continuous
+avg_bal_3_to_max_bal_9,Account Balance,Continuous
+avg_bal_6_to_max_bal_6,Account Balance,Continuous
+avg_bal_3_to_max_bal_6,Account Balance,Continuous
+avg_bal_3_to_max_bal_3,Account Balance,Continuous
+avg_bal_3_to_avg_bal_12,Account Balance,Continuous
+avg_bal_3_to_avg_bal_9,Account Balance,Continuous
+avg_bal_3_to_avg_bal_6,Account Balance,Continuous
+bal_to_avg_bal_12,Account Balance,Continuous
+bal_to_avg_bal_9,Account Balance,Continuous
+bal_to_avg_bal_6,Account Balance,Continuous
+bal_to_avg_bal_3,Account Balance,Continuous
+bal_to_max_bal_12,Account Balance,Continuous
+bal_to_max_bal_9,Account Balance,Continuous
+bal_to_max_bal_6,Account Balance,Continuous
+bal_to_max_bal_3,Account Balance,Continuous
+bal_to_fin,Account Balance,Continuous
+avg_bal_12,Account Balance,Continuous
+avg_bal_9,Account Balance,Continuous
+avg_bal_6,Account Balance,Continuous
+avg_bal_3,Account Balance,Continuous
+max_bal_12,Account Balance,Continuous
+max_bal_9,Account Balance,Continuous
+max_bal_6,Account Balance,Continuous
+max_bal_3,Account Balance,Continuous
+min_bal_12,Account Balance,Continuous
+min_bal_9,Account Balance,Continuous
+min_bal_6,Account Balance,Continuous
+min_bal_3,Account Balance,Continuous
+avg_bal_to_fin_12,Account Balance,Continuous
+avg_bal_to_fin_9,Account Balance,Continuous
+avg_bal_to_fin_6,Account Balance,Continuous
+avg_bal_to_fin_3,Account Balance,Continuous
+avg_due_12,Due Amount,Continuous
+avg_due_9,Due Amount,Continuous
+avg_due_6,Due Amount,Continuous
+avg_due_3,Due Amount,Continuous
+avg_ovd_12,Due Amount,Continuous
+avg_ovd_9,Due Amount,Continuous
+avg_ovd_6,Due Amount,Continuous
+avg_ovd_3,Due Amount,Continuous
+avg_due_3_to_avg_due_12,Due Amount,Continuous
+avg_due_3_to_avg_due_9,Due Amount,Continuous
+avg_due_3_to_avg_due_6,Due Amount,Continuous
+avg_ovd_3_to_avg_ovd_12,Due Amount,Continuous
+avg_ovd_3_to_avg_ovd_9,Due Amount,Continuous
+avg_ovd_3_to_avg_ovd_6,Due Amount,Continuous
+due_to_avg_due_12,Due Amount,Continuous
+due_to_avg_due_9,Due Amount,Continuous
+due_to_avg_due_6,Due Amount,Continuous
+due_to_avg_due_3,Due Amount,Continuous
+ovd_to_avg_ovd_12,Due Amount,Continuous
+ovd_to_avg_ovd_9,Due Amount,Continuous
+ovd_to_avg_ovd_6,Due Amount,Continuous
+ovd_to_avg_ovd_3,Due Amount,Continuous
+due_to_fin,Due Amount,Continuous
+due_to_fin_6,Due Amount,Continuous
+due_to_fin_5,Due Amount,Continuous
+due_to_fin_4,Due Amount,Continuous
+due_to_fin_3,Due Amount,Continuous
+due_to_fin_2,Due Amount,Continuous
+due_to_fin_1,Due Amount,Continuous
+ovd_to_fin,Due Amount,Continuous
+ovd_to_fin_6,Due Amount,Continuous
+ovd_to_fin_5,Due Amount,Continuous
+ovd_to_fin_4,Due Amount,Continuous
+ovd_to_fin_3,Due Amount,Continuous
+ovd_to_fin_2,Due Amount,Continuous
+ovd_to_fin_1,Due Amount,Continuous
+due,Due Amount,Continuous
+due1,Due Amount,Continuous
+due2,Due Amount,Continuous
+due3,Due Amount,Continuous
+due4,Due Amount,Continuous
+due5,Due Amount,Continuous
+due6,Due Amount,Continuous
+due7,Due Amount,Continuous
+due8,Due Amount,Continuous
+due9,Due Amount,Continuous
+due10,Due Amount,Continuous
+due11,Due Amount,Continuous
+due12,Due Amount,Continuous
+ovd,Due Amount,Continuous
+ovd1,Due Amount,Continuous
+ovd2,Due Amount,Continuous
+ovd3,Due Amount,Continuous
+ovd4,Due Amount,Continuous
+ovd5,Due Amount,Continuous
+ovd6,Due Amount,Continuous
+ovd7,Due Amount,Continuous
+ovd8,Due Amount,Continuous
+ovd9,Due Amount,Continuous
+ovd10,Due Amount,Continuous
+ovd11,Due Amount,Continuous
+ovd12,Due Amount,Continuous
+max_due_12,Due Amount,Continuous
+max_due_9,Due Amount,Continuous
+max_due_6,Due Amount,Continuous
+max_due_3,Due Amount,Continuous
+max_ovd_12,Due Amount,Continuous
+max_ovd_9,Due Amount,Continuous
+max_ovd_6,Due Amount,Continuous
+max_ovd_3,Due Amount,Continuous
+max_due_to_fin_12,Due Amount,Continuous
+max_due_to_fin_9,Due Amount,Continuous
+max_due_to_fin_6,Due Amount,Continuous
+max_due_to_fin_3,Due Amount,Continuous
+max_ovd_to_fin_12,Due Amount,Continuous
+max_ovd_to_fin_9,Due Amount,Continuous
+max_ovd_to_fin_6,Due Amount,Continuous
+max_ovd_to_fin_3,Due Amount,Continuous
+n_last_max_due_12,Due Amount,Categorical
+n_last_max_due_9,Due Amount,Categorical
+n_last_max_due_6,Due Amount,Categorical
+n_last_max_due_3,Due Amount,Categorical
+n_last_max_ovd_12,Due Amount,Categorical
+n_last_max_ovd_9,Due Amount,Categorical
+n_last_max_ovd_6,Due Amount,Categorical
+n_last_max_ovd_3,Due Amount,Categorical
+avg_due_to_fin_12,Due Amount,Continuous
+avg_due_to_fin_9,Due Amount,Continuous
+avg_due_to_fin_6,Due Amount,Continuous
+avg_due_to_fin_3,Due Amount,Continuous
+avg_ovd_to_fin_12,Due Amount,Continuous
+avg_ovd_to_fin_9,Due Amount,Continuous
+avg_ovd_to_fin_6,Due Amount,Continuous
+avg_ovd_to_fin_3,Due Amount,Continuous
+avg_pay_12,Payment,Continuous
+avg_pay_9,Payment,Continuous
+avg_pay_6,Payment,Continuous
+avg_pay_3,Payment,Continuous
+max_pay_to_install_12,Payment,Continuous
+max_pay_to_install_9,Payment,Continuous
+max_pay_to_install_6,Payment,Continuous
+max_pay_to_install_3,Payment,Continuous
+min_pay_to_install_12,Payment,Continuous
+min_pay_to_install_9,Payment,Continuous
+min_pay_to_install_6,Payment,Continuous
+min_pay_to_install_3,Payment,Continuous
+avg_pay_to_install_12,Payment,Continuous
+avg_pay_to_install_9,Payment,Continuous
+avg_pay_to_install_6,Payment,Continuous
+avg_pay_to_install_3,Payment,Continuous
+max_pay_to_due_12,Payment,Continuous
+max_pay_to_due_9,Payment,Continuous
+max_pay_to_due_6,Payment,Continuous
+max_pay_to_due_3,Payment,Continuous
+min_pay_to_due_12,Payment,Continuous
+min_pay_to_due_9,Payment,Continuous
+min_pay_to_due_6,Payment,Continuous
+min_pay_to_due_3,Payment,Continuous
+avg_pay_to_due_12,Payment,Continuous
+avg_pay_to_due_9,Payment,Continuous
+avg_pay_to_due_6,Payment,Continuous
+avg_pay_to_due_3,Payment,Continuous
+n_partial_pay_12,Payment,Categorical
+n_partial_pay_9,Payment,Categorical
+n_partial_pay_6,Payment,Categorical
+n_partial_pay_3,Payment,Categorical
+n_fully_pay_12,Payment,Categorical
+n_fully_pay_9,Payment,Categorical
+n_fully_pay_6,Payment,Categorical
+n_fully_pay_3,Payment,Categorical
+n_over_pay_12,Payment,Categorical
+n_over_pay_9,Payment,Categorical
+n_over_pay_6,Payment,Categorical
+n_over_pay_3,Payment,Categorical
+n_fully_to_n_partial_12,Payment,Continuous
+n_fully_to_n_partial_9,Payment,Continuous
+n_fully_to_n_partial_6,Payment,Continuous
+n_fully_to_n_partial_3,Payment,Continuous
+any_pmt_run_12,Payment,Categorical
+any_pmt_run_9,Payment,Categorical
+any_pmt_run_6,Payment,Categorical
+any_pmt_run_3,Payment,Categorical
+full_pmt_run_12,Payment,Categorical
+full_pmt_run_9,Payment,Categorical
+full_pmt_run_6,Payment,Categorical
+full_pmt_run_3,Payment,Categorical
+del,Delinquency,Categorical
+del1,Delinquency,Categorical
+del2,Delinquency,Categorical
+del3,Delinquency,Categorical
+del4,Delinquency,Categorical
+del5,Delinquency,Categorical
+del6,Delinquency,Categorical
+del7,Delinquency,Categorical
+del8,Delinquency,Categorical
+del9,Delinquency,Categorical
+del10,Delinquency,Categorical
+del11,Delinquency,Categorical
+del12,Delinquency,Categorical
+max_del_12,Delinquency,Categorical
+max_del_9,Delinquency,Categorical
+max_del_6,Delinquency,Categorical
+max_del_3,Delinquency,Categorical
+ever_x_dpd_12,Delinquency,Categorical
+ever_x_dpd_9,Delinquency,Categorical
+ever_x_dpd_6,Delinquency,Categorical
+ever_x_dpd_3,Delinquency,Categorical
+ever_30_dpd_12,Delinquency,Categorical
+ever_30_dpd_9,Delinquency,Categorical
+ever_30_dpd_6,Delinquency,Categorical
+ever_30_dpd_3,Delinquency,Categorical
+ever_60_dpd_12,Delinquency,Categorical
+ever_60_dpd_9,Delinquency,Categorical
+ever_60_dpd_6,Delinquency,Categorical
+ever_60_dpd_3,Delinquency,Categorical
+ever_90_dpd_12,Delinquency,Categorical
+ever_90_dpd_9,Delinquency,Categorical
+ever_90_dpd_6,Delinquency,Categorical
+ever_90_dpd_3,Delinquency,Categorical
+n_x_dpd_12,Delinquency,Categorical
+n_x_dpd_9,Delinquency,Categorical
+n_x_dpd_6,Delinquency,Categorical
+n_x_dpd_3,Delinquency,Categorical
+n_30_dpd_12,Delinquency,Categorical
+n_30_dpd_9,Delinquency,Categorical
+n_30_dpd_6,Delinquency,Categorical
+n_30_dpd_3,Delinquency,Categorical
+n_60_dpd_12,Delinquency,Categorical
+n_60_dpd_9,Delinquency,Categorical
+n_60_dpd_6,Delinquency,Categorical
+n_60_dpd_3,Delinquency,Categorical
+n_90_dpd_12,Delinquency,Categorical
+n_90_dpd_9,Delinquency,Categorical
+n_90_dpd_6,Delinquency,Categorical
+n_90_dpd_3,Delinquency,Categorical
+n_month_last_x,Delinquency,Categorical
+n_month_last_30,Delinquency,Categorical
+n_month_last_60,Delinquency,Categorical
+n_month_last_90,Delinquency,Categorical
+delq_x_run_12,Delinquency,Categorical
+delq_x_run_9,Delinquency,Categorical
+delq_x_run_6,Delinquency,Categorical
+delq_x_run_3,Delinquency,Categorical
+delq_30_run_12,Delinquency,Categorical
+delq_30_run_9,Delinquency,Categorical
+delq_30_run_6,Delinquency,Categorical
+delq_30_run_3,Delinquency,Categorical
+delq_60_run_12,Delinquency,Categorical
+delq_60_run_9,Delinquency,Categorical
+delq_60_run_6,Delinquency,Categorical
+delq_60_run_3,Delinquency,Categorical
+delq_90_run_12,Delinquency,Categorical
+delq_90_run_9,Delinquency,Categorical
+delq_90_run_6,Delinquency,Categorical
+delq_90_run_3,Delinquency,Categorical
