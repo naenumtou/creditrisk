@@ -15,3 +15,7 @@ Dataset used for credit scoring model. It contained several files such as datase
 | --- | --- |
 | longlistFactor.csv | The long-list factors used for Behaviour Score (B-Score) model development |
 | titanic_data.csv | The public Titanic dataset to apply Application Score (A-Score) concepts |
+| scoreDevelopment.csv | The final score model with final score bands |
+| factorDevelopment.csv | The final score model with final factors |
+| scoreValidation.csv | The final score model during out-of-time period |
+| factorValidation.csv | The final score model with final factors during out-of-time period |
