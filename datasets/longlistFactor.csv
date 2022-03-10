@@ -232,10 +232,10 @@ n_90_dpd_12,Delinquency,Categorical
 n_90_dpd_9,Delinquency,Categorical
 n_90_dpd_6,Delinquency,Categorical
 n_90_dpd_3,Delinquency,Categorical
-n_month_last_x,Delinquency,Categorical
-n_month_last_30,Delinquency,Categorical
-n_month_last_60,Delinquency,Categorical
-n_month_last_90,Delinquency,Categorical
+n_last_month_x,Delinquency,Categorical
+n_last_month_30,Delinquency,Categorical
+n_last_month_60,Delinquency,Categorical
+n_last_month_90,Delinquency,Categorical
 delq_x_run_12,Delinquency,Categorical
 delq_x_run_9,Delinquency,Categorical
 delq_x_run_6,Delinquency,Categorical
