@@ -1,0 +1,254 @@
+﻿no,factor,description,factor_type,data_type,factor_trend
+1,avg_bal_12_to_max_bal_12,Average balance over the last 12 months to maximum balance in last 12 months,Account Balance,Continuous,
+2,avg_bal_9_to_max_bal_12,Average balance over the last 9 months to maximum balance in last 12 months,Account Balance,Continuous,
+3,avg_bal_6_to_max_bal_12,Average balance over the last 6 months to maximum balance in last 12 months,Account Balance,Continuous,
+4,avg_bal_3_to_max_bal_12,Average balance over the last 3 months to maximum balance in last 12 months,Account Balance,Continuous,
+5,avg_bal_9_to_max_bal_9,Average balance over the last 9 months to maximum balance in last 9 months,Account Balance,Continuous,
+6,avg_bal_6_to_max_bal_9,Average balance over the last 6 months to maximum balance in last 9 months,Account Balance,Continuous,
+7,avg_bal_3_to_max_bal_9,Average balance over the last 3 months to maximum balance in last 9 months,Account Balance,Continuous,
+8,avg_bal_6_to_max_bal_6,Average balance over the last 6 months to maximum balance in last 6 months,Account Balance,Continuous,
+9,avg_bal_3_to_max_bal_6,Average balance over the last 3 months to maximum balance in last 6 months,Account Balance,Continuous,
+10,avg_bal_3_to_max_bal_3,Average balance over the last 3 months to maximum balance in last 3 months,Account Balance,Continuous,
+11,avg_bal_3_to_avg_bal_12,Average balance over the last 3 months to average balance over the last 12 months,Account Balance,Continuous,
+12,avg_bal_3_to_avg_bal_9,Average balance over the last 3 months to average balance over the last 9 months,Account Balance,Continuous,
+13,avg_bal_3_to_avg_bal_6,Average balance over the last 3 months to average balance over the last 6 months,Account Balance,Continuous,
+14,bal_to_avg_bal_12,Current balance to average balance over the last 12 months,Account Balance,Continuous,
+15,bal_to_avg_bal_9,Current balance to average balance over the last 9 months,Account Balance,Continuous,
+16,bal_to_avg_bal_6,Current balance to average balance over the last 6 months,Account Balance,Continuous,
+17,bal_to_avg_bal_3,Current balance to average balance over the last 3 months,Account Balance,Continuous,
+18,bal_to_max_bal_12,Current balance to maximum balance in last 12 months,Account Balance,Continuous,
+19,bal_to_max_bal_9,Current balance to maximum balance in last 9 months,Account Balance,Continuous,
+20,bal_to_max_bal_6,Current balance to maximum balance in last 6 months,Account Balance,Continuous,
+21,bal_to_max_bal_3,Current balance to maximum balance in last 3 months,Account Balance,Continuous,
+22,bal_to_fin,Current balance to financed amount,Account Balance,Continuous,
+23,avg_bal_12,Average balance in past 12 months,Account Balance,Continuous,
+24,avg_bal_9,Average balance in past 9 months,Account Balance,Continuous,
+25,avg_bal_6,Average balance in past 6 months,Account Balance,Continuous,
+26,avg_bal_3,Average balance in past 3 months,Account Balance,Continuous,
+27,max_bal_12,Maximum balance in past 12 months,Account Balance,Continuous,
+28,max_bal_9,Maximum balance in past 9 months,Account Balance,Continuous,
+29,max_bal_6,Maximum balance in past 6 months,Account Balance,Continuous,
+30,max_bal_3,Maximum balance in past 3 months,Account Balance,Continuous,
+31,min_bal_12,Minimum balance in past 12 months,Account Balance,Continuous,
+32,min_bal_9,Minimum balance in past 9 months,Account Balance,Continuous,
+33,min_bal_6,Minimum balance in past 6 months,Account Balance,Continuous,
+34,min_bal_3,Minimum balance in past 3 months,Account Balance,Continuous,
+35,avg_bal_to_fin_12,Average of balance to financed amount in past 12 months,Account Balance,Continuous,
+36,avg_bal_to_fin_9,Average of balance to financed amount in past 9 months,Account Balance,Continuous,
+37,avg_bal_to_fin_6,Average of balance to financed amount in past 6 months,Account Balance,Continuous,
+38,avg_bal_to_fin_3,Average of balance to financed amount in past 3 months,Account Balance,Continuous,
+39,avg_due_12,Average due amount in past 12 months,Due Amount,Continuous,
+40,avg_due_9,Average due amount in past 9 months,Due Amount,Continuous,
+41,avg_due_6,Average due amount in past 6 months,Due Amount,Continuous,
+42,avg_due_3,Average due amount in past 3 months,Due Amount,Continuous,
+43,avg_ovd_12,Average overdue amount in past 12 months,Due Amount,Continuous,ascending
+44,avg_ovd_9,Average overdue amount in past 9 months,Due Amount,Continuous,ascending
+45,avg_ovd_6,Average overdue amount in past 6 months,Due Amount,Continuous,ascending
+46,avg_ovd_3,Average overdue amount in past 3 months,Due Amount,Continuous,ascending
+47,avg_due_3_to_avg_due_12,Average due amount over the last 3 months to average due amount over the last 12 months,Due Amount,Continuous,
+48,avg_due_3_to_avg_due_9,Average due amount over the last 3 months to average due amount over the last 9 months,Due Amount,Continuous,
+49,avg_due_3_to_avg_due_6,Average due amount over the last 3 months to average due amount over the last 6 months,Due Amount,Continuous,
+50,avg_ovd_3_to_avg_ovd_12,Average overdue amount over the last 3 months to average overdue amount over the last 12 months,Due Amount,Continuous,ascending
+51,avg_ovd_3_to_avg_ovd_9,Average overdue amount over the last 3 months to average overdue amount over the last 9 months,Due Amount,Continuous,ascending
+52,avg_ovd_3_to_avg_ovd_6,Average overdue amount over the last 3 months to average overdue amount over the last 6 months,Due Amount,Continuous,ascending
+53,due_to_avg_due_12,Current month due amount to average due amount over the last 12 months,Due Amount,Continuous,
+54,due_to_avg_due_9,Current month due amount to average due amount over the last 9 months,Due Amount,Continuous,
+55,due_to_avg_due_6,Current month due amount to average due amount over the last 6 months,Due Amount,Continuous,
+56,due_to_avg_due_3,Current month due amount to average due amount over the last 3 months,Due Amount,Continuous,
+57,ovd_to_avg_ovd_12,Current month overdue amount to average overdue amount over the last 12 months,Due Amount,Continuous,ascending
+58,ovd_to_avg_ovd_9,Current month overdue amount to average overdue amount over the last 9 months,Due Amount,Continuous,ascending
+59,ovd_to_avg_ovd_6,Current month overdue amount to average overdue amount over the last 6 months,Due Amount,Continuous,ascending
+60,ovd_to_avg_ovd_3,Current month overdue amount to average overdue amount over the last 3 months,Due Amount,Continuous,ascending
+61,due_to_fin,Due amount in current month to financed amount,Due Amount,Continuous,
+62,due_to_fin_6,Due amount in previous 6 month to financed amount,Due Amount,Continuous,
+63,due_to_fin_5,Due amount in previous 5 month to financed amount,Due Amount,Continuous,
+64,due_to_fin_4,Due amount in previous 4 month to financed amount,Due Amount,Continuous,
+65,due_to_fin_3,Due amount in previous 3 month to financed amount,Due Amount,Continuous,
+66,due_to_fin_2,Due amount in previous 2 month to financed amount,Due Amount,Continuous,
+67,due_to_fin_1,Due amount in previous 1 month to financed amount,Due Amount,Continuous,
+68,ovd_to_fin,Overdue amount in current month to financed amount,Due Amount,Continuous,ascending
+69,ovd_to_fin_6,Overdue amount in previous 6 month to financed amount,Due Amount,Continuous,ascending
+70,ovd_to_fin_5,Overdue amount in previous 5 month to financed amount,Due Amount,Continuous,ascending
+71,ovd_to_fin_4,Overdue amount in previous 4 month to financed amount,Due Amount,Continuous,ascending
+72,ovd_to_fin_3,Overdue amount in previous 3 month to financed amount,Due Amount,Continuous,ascending
+73,ovd_to_fin_2,Overdue amount in previous 2 month to financed amount,Due Amount,Continuous,ascending
+74,ovd_to_fin_1,Overdue amount in previous 1 month to financed amount,Due Amount,Continuous,ascending
+75,due,Due amount in current month,Due Amount,Continuous,
+76,due1,Due amount in previous 1 month,Due Amount,Continuous,
+77,due2,Due amount in previous 2 months,Due Amount,Continuous,
+78,due3,Due amount in previous 3 months,Due Amount,Continuous,
+79,due4,Due amount in previous 4 months,Due Amount,Continuous,
+80,due5,Due amount in previous 5 months,Due Amount,Continuous,
+81,due6,Due amount in previous 6 months,Due Amount,Continuous,
+82,due7,Due amount in previous 7 months,Due Amount,Continuous,
+83,due8,Due amount in previous 8 months,Due Amount,Continuous,
+84,due9,Due amount in previous 9 months,Due Amount,Continuous,
+85,due10,Due amount in previous 10 months,Due Amount,Continuous,
+86,due11,Due amount in previous 11 months,Due Amount,Continuous,
+87,due12,Due amount in previous 12 months,Due Amount,Continuous,
+88,ovd,Overdue amount in current month,Due Amount,Continuous,ascending
+89,ovd1,Overdue amount in previous 1 month,Due Amount,Continuous,ascending
+90,ovd2,Overdue amount in previous 2 months,Due Amount,Continuous,ascending
+91,ovd3,Overdue amount in previous 3 months,Due Amount,Continuous,ascending
+92,ovd4,Overdue amount in previous 4 months,Due Amount,Continuous,ascending
+93,ovd5,Overdue amount in previous 5 months,Due Amount,Continuous,ascending
+94,ovd6,Overdue amount in previous 6 months,Due Amount,Continuous,ascending
+95,ovd7,Overdue amount in previous 7 months,Due Amount,Continuous,ascending
+96,ovd8,Overdue amount in previous 8 months,Due Amount,Continuous,ascending
+97,ovd9,Overdue amount in previous 9 months,Due Amount,Continuous,ascending
+98,ovd10,Overdue amount in previous 10 months,Due Amount,Continuous,ascending
+99,ovd11,Overdue amount in previous 11 months,Due Amount,Continuous,ascending
+100,ovd12,Overdue amount in previous 12 months,Due Amount,Continuous,ascending
+101,max_due_12,Maximum due amount in past 12 months,Due Amount,Continuous,
+102,max_due_9,Maximum due amount in past 9 months,Due Amount,Continuous,
+103,max_due_6,Maximum due amount in past 6 months,Due Amount,Continuous,
+104,max_due_3,Maximum due amount in past 3 months,Due Amount,Continuous,
+105,max_ovd_12,Maximum overdue amount in past 12 months,Due Amount,Continuous,ascending
+106,max_ovd_9,Maximum overdue amount in past 9 months,Due Amount,Continuous,ascending
+107,max_ovd_6,Maximum overdue amount in past 6 months,Due Amount,Continuous,ascending
+108,max_ovd_3,Maximum overdue amount in past 3 months,Due Amount,Continuous,ascending
+109,max_due_to_fin_12,Maximum due amount in the past 12 months to financed amount,Due Amount,Continuous,
+110,max_due_to_fin_9,Maximum due amount in the past 9 months to financed amount,Due Amount,Continuous,
+111,max_due_to_fin_6,Maximum due amount in the past 6 months to financed amount,Due Amount,Continuous,
+112,max_due_to_fin_3,Maximum due amount in the past 3 months to financed amount,Due Amount,Continuous,
+113,max_ovd_to_fin_12,Maximum overdue amount in the past 12 months to financed amount,Due Amount,Continuous,ascending
+114,max_ovd_to_fin_9,Maximum overdue amount in the past 9 months to financed amount,Due Amount,Continuous,ascending
+115,max_ovd_to_fin_6,Maximum overdue amount in the past 6 months to financed amount,Due Amount,Continuous,ascending
+116,max_ovd_to_fin_3,Maximum overdue amount in the past 3 months to financed amount,Due Amount,Continuous,ascending
+117,n_last_max_due_12,Number of months since maximum due amount has been made in last 12 months,Due Amount,Categorical,
+118,n_last_max_due_9,Number of months since maximum due amount has been made in last 9 months,Due Amount,Categorical,
+119,n_last_max_due_6,Number of months since maximum due amount has been made in last 6 months,Due Amount,Categorical,
+120,n_last_max_due_3,Number of months since maximum due amount has been made in last 3 months,Due Amount,Categorical,
+121,n_last_max_ovd_12,Number of months since maximum overdue amount in last 12 months,Due Amount,Categorical,descending
+122,n_last_max_ovd_9,Number of months since maximum overdue amount in last 9 months,Due Amount,Categorical,descending
+123,n_last_max_ovd_6,Number of months since maximum overdue amount in last 6 months,Due Amount,Categorical,descending
+124,n_last_max_ovd_3,Number of months since maximum overdue amount in last 3 months,Due Amount,Categorical,descending
+125,avg_due_to_fin_12,Average of due amount to financed amount in last 12 months,Due Amount,Continuous,
+126,avg_due_to_fin_9,Average of due amount to financed amount in last 9 months,Due Amount,Continuous,
+127,avg_due_to_fin_6,Average of due amount to financed amount in last 6 months,Due Amount,Continuous,
+128,avg_due_to_fin_3,Average of due amount to financed amount in last 3 months,Due Amount,Continuous,
+129,avg_ovd_to_fin_12,Average of overdue amount to financed amount in last 12 months,Due Amount,Continuous,ascending
+130,avg_ovd_to_fin_9,Average of overdue amount to financed amount in last 9 months,Due Amount,Continuous,ascending
+131,avg_ovd_to_fin_6,Average of overdue amount to financed amount in last 6 months,Due Amount,Continuous,ascending
+132,avg_ovd_to_fin_3,Average of overdue amount to financed amount in last 3 months,Due Amount,Continuous,ascending
+133,avg_pay_12,Average repayment amount in past 12 months,Payment,Continuous,descending
+134,avg_pay_9,Average repayment amount in past 9 months,Payment,Continuous,descending
+135,avg_pay_6,Average repayment amount in past 6 months,Payment,Continuous,descending
+136,avg_pay_3,Average repayment amount in past 3 months,Payment,Continuous,descending
+137,max_pay_to_install_12,Maximum of repayment amount to instalment in last 12 months,Payment,Continuous,descending
+138,max_pay_to_install_9,Maximum of repayment amount to instalment in last 9 months,Payment,Continuous,descending
+139,max_pay_to_install_6,Maximum of repayment amount to instalment in last 6 months,Payment,Continuous,descending
+140,max_pay_to_install_3,Maximum of repayment amount to instalment in last 3 months,Payment,Continuous,descending
+141,min_pay_to_install_12,Minimum of repayment amount to instalment in last 12 months,Payment,Continuous,descending
+142,min_pay_to_install_9,Minimum of repayment amount to instalment in last 9 months,Payment,Continuous,descending
+143,min_pay_to_install_6,Minimum of repayment amount to instalment in last 6 months,Payment,Continuous,descending
+144,min_pay_to_install_3,Minimum of repayment amount to instalment in last 3 months,Payment,Continuous,descending
+145,avg_pay_to_install_12,Average of repayment amount to instalment in last 12 months,Payment,Continuous,descending
+146,avg_pay_to_install_9,Average of repayment amount to instalment in last 9 months,Payment,Continuous,descending
+147,avg_pay_to_install_6,Average of repayment amount to instalment in last 6 months,Payment,Continuous,descending
+148,avg_pay_to_install_3,Average of repayment amount to instalment in last 3 months,Payment,Continuous,descending
+149,max_pay_to_due_12,Maximum of repayment amount to due amount in last 12 months,Payment,Continuous,descending
+150,max_pay_to_due_9,Maximum of repayment amount to due amount in last 9 months,Payment,Continuous,descending
+151,max_pay_to_due_6,Maximum of repayment amount to due amount in last 6 months,Payment,Continuous,descending
+152,max_pay_to_due_3,Maximum of repayment amount to due amount in last 3 months,Payment,Continuous,descending
+153,min_pay_to_due_12,Minimum of repayment amount to due amount in last 12 months,Payment,Continuous,descending
+154,min_pay_to_due_9,Minimum of repayment amount to due amount in last 9 months,Payment,Continuous,descending
+155,min_pay_to_due_6,Minimum of repayment amount to due amount in last 6 months,Payment,Continuous,descending
+156,min_pay_to_due_3,Minimum of repayment amount to due amount in last 3 months,Payment,Continuous,descending
+157,avg_pay_to_due_12,Average of repayment amount to due amount in last 12 months,Payment,Continuous,descending
+158,avg_pay_to_due_9,Average of repayment amount to due amount in last 9 months,Payment,Continuous,descending
+159,avg_pay_to_due_6,Average of repayment amount to due amount in last 6 months,Payment,Continuous,descending
+160,avg_pay_to_due_3,Average of repayment amount to due amount in last 3 months,Payment,Continuous,descending
+161,n_partial_pay_12,Number of times that partial payment was made in last 12 months,Payment,Categorical,ascending
+162,n_partial_pay_9,Number of times that partial payment was made in last 9 months,Payment,Categorical,ascending
+163,n_partial_pay_6,Number of times that partial payment was made in last 6 months,Payment,Categorical,ascending
+164,n_partial_pay_3,Number of times that partial payment was made in last 3 months,Payment,Categorical,ascending
+165,n_fully_pay_12,Number of times that full payment was made in last 12 months,Payment,Categorical,descending
+166,n_fully_pay_9,Number of times that full payment was made in last 9 months,Payment,Categorical,descending
+167,n_fully_pay_6,Number of times that full payment was made in last 6 months,Payment,Categorical,descending
+168,n_fully_pay_3,Number of times that full payment was made in last 3 months,Payment,Categorical,descending
+169,n_over_pay_12,Number of times that over payment was made in last 12 months,Payment,Categorical,descending
+170,n_over_pay_9,Number of times that over payment was made in last 9 months,Payment,Categorical,descending
+171,n_over_pay_6,Number of times that over payment was made in last 6 months,Payment,Categorical,descending
+172,n_over_pay_3,Number of times that over payment was made in last 3 months,Payment,Categorical,descending
+173,n_fully_to_n_partial_12,Number of full payments to number of partial payments in last 12 months,Payment,Continuous,descending
+174,n_fully_to_n_partial_9,Number of full payments to number of partial payments in last 9 months,Payment,Continuous,descending
+175,n_fully_to_n_partial_6,Number of full payments to number of partial payments in last 6 months,Payment,Continuous,descending
+176,n_fully_to_n_partial_3,Number of full payments to number of partial payments in last 3 months,Payment,Continuous,descending
+177,any_pmt_run_12,Longest run of consecutive months in which the contract was any repayment over the last 12 months,Payment,Categorical,ascending
+178,any_pmt_run_9,Longest run of consecutive months in which the contract was any repayment over the last 9 months,Payment,Categorical,ascending
+179,any_pmt_run_6,Longest run of consecutive months in which the contract was any repayment over the last 6 months,Payment,Categorical,ascending
+180,any_pmt_run_3,Longest run of consecutive months in which the contract was any repayment over the last 3 months,Payment,Categorical,ascending
+181,full_pmt_run_12,Longest run of consecutive months in which the contract was fully repayment over the last 12 months,Payment,Categorical,descending
+182,full_pmt_run_9,Longest run of consecutive months in which the contract was fully repayment over the last 9 months,Payment,Categorical,descending
+183,full_pmt_run_6,Longest run of consecutive months in which the contract was fully repayment over the last 6 months,Payment,Categorical,descending
+184,full_pmt_run_3,Longest run of consecutive months in which the contract was fully repayment over the last 3 months,Payment,Categorical,descending
+185,del,Delinquency of a contract in current month ,Delinquency,Categorical,ascending
+186,del1,Delinquency of a contract in previous 1 month ,Delinquency,Categorical,ascending
+187,del2,Delinquency of a contract in previous 2 months ,Delinquency,Categorical,ascending
+188,del3,Delinquency of a contract in previous 3 months ,Delinquency,Categorical,ascending
+189,del4,Delinquency of a contract in previous 4 months ,Delinquency,Categorical,ascending
+190,del5,Delinquency of a contract in previous 5 months ,Delinquency,Categorical,ascending
+191,del6,Delinquency of a contract in previous 6 months ,Delinquency,Categorical,ascending
+192,del7,Delinquency of a contract in previous 7 months ,Delinquency,Categorical,ascending
+193,del8,Delinquency of a contract in previous 8 months ,Delinquency,Categorical,ascending
+194,del9,Delinquency of a contract in previous 9 months ,Delinquency,Categorical,ascending
+195,del10,Delinquency of a contract in previous 10 months ,Delinquency,Categorical,ascending
+196,del11,Delinquency of a contract in previous 11 months ,Delinquency,Categorical,ascending
+197,del12,Delinquency of a contract in previous 12 months ,Delinquency,Categorical,ascending
+198,max_del_12,Maximum delinquency in past 12 months,Delinquency,Categorical,ascending
+199,max_del_9,Maximum delinquency in past 9 months,Delinquency,Categorical,ascending
+200,max_del_6,Maximum delinquency in past 6 months,Delinquency,Categorical,ascending
+201,max_del_3,Maximum delinquency in past 3 months,Delinquency,Categorical,ascending
+202,ever_x_dpd_12,A contract has overdue days more than 0 day in last 12 months,Delinquency,Categorical,
+203,ever_x_dpd_9,A contract has overdue days more than 0 day in last 9 months,Delinquency,Categorical,
+204,ever_x_dpd_6,A contract has overdue days more than 0 day in last 6 months,Delinquency,Categorical,
+205,ever_x_dpd_3,A contract has overdue days more than 0 day in last 3 months,Delinquency,Categorical,
+206,ever_30_dpd_12,A contract has overdue days more than 30 days in last 12 months,Delinquency,Categorical,
+207,ever_30_dpd_9,A contract has overdue days more than 30 days in last 9 months,Delinquency,Categorical,
+208,ever_30_dpd_6,A contract has overdue days more than 30 days in last 6 months,Delinquency,Categorical,
+209,ever_30_dpd_3,A contract has overdue days more than 30 days in last 3 months,Delinquency,Categorical,
+210,ever_60_dpd_12,A contract has overdue days more than 60 days in last 12 months,Delinquency,Categorical,
+211,ever_60_dpd_9,A contract has overdue days more than 60 days in last 9 months,Delinquency,Categorical,
+212,ever_60_dpd_6,A contract has overdue days more than 60 days in last 6 months,Delinquency,Categorical,
+213,ever_60_dpd_3,A contract has overdue days more than 60 days in last 3 months,Delinquency,Categorical,
+214,ever_90_dpd_12,A contract has overdue days more than 90 days in last 12 months,Delinquency,Categorical,
+215,ever_90_dpd_9,A contract has overdue days more than 90 days in last 9 months,Delinquency,Categorical,
+216,ever_90_dpd_6,A contract has overdue days more than 90 days in last 6 months,Delinquency,Categorical,
+217,ever_90_dpd_3,A contract has overdue days more than 90 days in last 3 months,Delinquency,Categorical,
+218,n_x_dpd_12,Number of times that a contract has overdue days > 0 day in last 12 months,Delinquency,Categorical,ascending
+219,n_x_dpd_9,Number of times that a contract has overdue days > 0 day in last 9 months,Delinquency,Categorical,ascending
+220,n_x_dpd_6,Number of times that a contract has overdue days > 0 day in last 6 months,Delinquency,Categorical,ascending
+221,n_x_dpd_3,Number of times that a contract has overdue days > 0 day in last 3 months,Delinquency,Categorical,ascending
+222,n_30_dpd_12,Number of times that a contract has overdue days > 30 days in last 12 months,Delinquency,Categorical,ascending
+223,n_30_dpd_9,Number of times that a contract has overdue days > 30 days in last 9 months,Delinquency,Categorical,ascending
+224,n_30_dpd_6,Number of times that a contract has overdue days > 30 days in last 6 months,Delinquency,Categorical,ascending
+225,n_30_dpd_3,Number of times that a contract has overdue days > 30 days in last 3 months,Delinquency,Categorical,ascending
+226,n_60_dpd_12,Number of times that a contract has overdue days > 60 days in last 12 months,Delinquency,Categorical,ascending
+227,n_60_dpd_9,Number of times that a contract has overdue days > 60 days in last 9 months,Delinquency,Categorical,ascending
+228,n_60_dpd_6,Number of times that a contract has overdue days > 60 days in last 6 months,Delinquency,Categorical,ascending
+229,n_60_dpd_3,Number of times that a contract has overdue days > 60 days in last 3 months,Delinquency,Categorical,ascending
+230,n_90_dpd_12,Number of times that a contract has overdue days > 90 days in last 12 months,Delinquency,Categorical,ascending
+231,n_90_dpd_9,Number of times that a contract has overdue days > 90 days in last 9 months,Delinquency,Categorical,ascending
+232,n_90_dpd_6,Number of times that a contract has overdue days > 90 days in last 6 months,Delinquency,Categorical,ascending
+233,n_90_dpd_3,Number of times that a contract has overdue days > 90 days in last 3 months,Delinquency,Categorical,ascending
+234,n_month_last_x,Number of months since last delinquency status as overdue days > 0 day,Delinquency,Categorical,descending
+235,n_month_last_30,Number of months since last delinquency status as overdue days > 30 days,Delinquency,Categorical,descending
+236,n_month_last_60,Number of months since last delinquency status as overdue days > 60 days,Delinquency,Categorical,descending
+237,n_month_last_90,Number of months since last delinquency status as overdue days > 90 days,Delinquency,Categorical,descending
+238,delq_x_run_12,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 12 months,Delinquency,Categorical,ascending
+239,delq_x_run_9,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 9 months,Delinquency,Categorical,ascending
+240,delq_x_run_6,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 6 months,Delinquency,Categorical,ascending
+241,delq_x_run_3,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 3 months,Delinquency,Categorical,ascending
+242,delq_30_run_12,Longest run of consecutive months in which delinquency status as as overdue day > 30 days  over the last 12 months,Delinquency,Categorical,ascending
+243,delq_30_run_9,Longest run of consecutive months in which delinquency status as as overdue day > 30 days  over the last 9 months,Delinquency,Categorical,ascending
+244,delq_30_run_6,Longest run of consecutive months in which delinquency status as as overdue day > 30 days  over the last 6 months,Delinquency,Categorical,ascending
+245,delq_30_run_3,Longest run of consecutive months in which delinquency status as as overdue day > 30 days  over the last 3 months,Delinquency,Categorical,ascending
+246,delq_60_run_12,Longest run of consecutive months in which delinquency status as as overdue day > 60 days  over the last 12 months,Delinquency,Categorical,ascending
+247,delq_60_run_9,Longest run of consecutive months in which delinquency status as as overdue day > 60 days  over the last 9 months,Delinquency,Categorical,ascending
+248,delq_60_run_6,Longest run of consecutive months in which delinquency status as as overdue day > 60 days  over the last 6 months,Delinquency,Categorical,ascending
+249,delq_60_run_3,Longest run of consecutive months in which delinquency status as as overdue day > 60 days  over the last 3 months,Delinquency,Categorical,ascending
+250,delq_90_run_12,Longest run of consecutive months in which delinquency status as as overdue day > 90 days  over the last 12 months,Delinquency,Categorical,ascending
+251,delq_90_run_9,Longest run of consecutive months in which delinquency status as as overdue day > 90 days  over the last 9 months,Delinquency,Categorical,ascending
+252,delq_90_run_6,Longest run of consecutive months in which delinquency status as as overdue day > 90 days  over the last 6 months,Delinquency,Categorical,ascending
+253,delq_90_run_3,Longest run of consecutive months in which delinquency status as as overdue day > 90 days  over the last 3 months,Delinquency,Categorical,ascending
