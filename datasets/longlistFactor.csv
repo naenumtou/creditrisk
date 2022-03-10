@@ -232,10 +232,10 @@
 231,n_90_dpd_9,Number of times that a contract has overdue days > 90 days in last 9 months,Delinquency,Categorical,ascending
 232,n_90_dpd_6,Number of times that a contract has overdue days > 90 days in last 6 months,Delinquency,Categorical,ascending
 233,n_90_dpd_3,Number of times that a contract has overdue days > 90 days in last 3 months,Delinquency,Categorical,ascending
-234,n_month_last_x,Number of months since last delinquency status as overdue days > 0 day,Delinquency,Categorical,descending
-235,n_month_last_30,Number of months since last delinquency status as overdue days > 30 days,Delinquency,Categorical,descending
-236,n_month_last_60,Number of months since last delinquency status as overdue days > 60 days,Delinquency,Categorical,descending
-237,n_month_last_90,Number of months since last delinquency status as overdue days > 90 days,Delinquency,Categorical,descending
+234,n_last_month_x,Number of months since last delinquency status as overdue days > 0 day,Delinquency,Categorical,descending
+235,n_last_month_30,Number of months since last delinquency status as overdue days > 30 days,Delinquency,Categorical,descending
+236,n_last_month_60,Number of months since last delinquency status as overdue days > 60 days,Delinquency,Categorical,descending
+237,n_last_month_90,Number of months since last delinquency status as overdue days > 90 days,Delinquency,Categorical,descending
 238,delq_x_run_12,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 12 months,Delinquency,Categorical,ascending
 239,delq_x_run_9,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 9 months,Delinquency,Categorical,ascending
 240,delq_x_run_6,Longest run of consecutive months in which delinquency status as as overdue day > 0 days  over the last 6 months,Delinquency,Categorical,ascending
