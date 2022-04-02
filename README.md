@@ -15,7 +15,8 @@ soon
 
 ## Behaviour score (B-Score)
 * `factorsCreation.ipynb`: The initial stage of behaviour scoring model development is to create behaviour factors.
-* `modifySampling.ipynb`: Shared idea for sampling construction, which integrated default experience condition. 
+* `modifySampling.ipynb`: Shared idea for sampling construction, which integrated default experience condition.
+* `SMOTESampling.ipynb`: The over sampling method using SMOTE to overcome imbalance target in the dataset.
 
 ## Model validation
 * `scoringEvaluationMetrics.ipynb`: Scoring model evaluation metrics to measure scoring model peformance.
