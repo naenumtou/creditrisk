@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 
 <p align="center">
-  <img src="https://bigdata-madesimple.com/wp-content/uploads/2019/01/credit-scores.jpg" alt="Credit Risk Models"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66057952/291804878-9854d1bc-f4d6-415a-9129-420b3f19364c.jpg" alt="Credit Risk Models"/>
 </p>
 
 ## Credir scoring model
